@@ -1,0 +1,1 @@
+This in a newbie attempt at creating a video poker machine.
