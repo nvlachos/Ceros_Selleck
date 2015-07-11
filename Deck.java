@@ -1,9 +1,9 @@
-import static java.lang.System.out;
 
-class Deck {
+class deck {
 
-    public static void main() {
+    public static void main(String[] args) {
         System.out.println("Deck created");
+        card first  = new card(3,"Spades");
     }
-    
+ 
 }
